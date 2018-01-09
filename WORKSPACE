@@ -1,4 +1,4 @@
-workspace(name = "vpai_examples")
+workspace(name = "grpc_bazel_skeleton")
 
 git_repository(
   name="com_google_absl",
